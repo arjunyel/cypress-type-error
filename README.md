@@ -1,0 +1,1 @@
+# cypress-type-error
