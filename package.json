@@ -1,0 +1,22 @@
+{
+  "name": "cypress-type-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunyel/cypress-type-error.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjunyel/cypress-type-error/issues"
+  },
+  "homepage": "https://github.com/arjunyel/cypress-type-error#readme",
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  }
+}
